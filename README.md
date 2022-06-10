@@ -1,2 +1,2 @@
 # Web-Dev-Test
-Web Development testing repository.
+React Design showcase project.
